@@ -49,11 +49,7 @@ Portfolio Design
 _Add screenshots of your design here._
 
 ## 🔗 Figma File
-
-Add your public Figma link here.
-
-Example:
-https://www.figma.com/file/your-link
+https://www.figma.com/proto/QQ3rmPR7HU4LHtloVBSJPm/PROJECT-2?node-id=2-306&t=iclsVmSfTfWcl21Q-1
 
 ## 📄 Internship
 
@@ -64,4 +60,6 @@ Created as part of the **Syntecxhub UI/UX Design Internship (Week 1)**.
 **Shreya Somkuwar**
 
 GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/
+shreya-s-80317441a
+

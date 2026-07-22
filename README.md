@@ -44,9 +44,6 @@ Portfolio Design
 └── Prototype
 ```
 
-## 📷 Screenshots
-
-_Add screenshots of your design here._
 
 ## 🔗 Figma File
 https://www.figma.com/proto/QQ3rmPR7HU4LHtloVBSJPm/PROJECT-2?node-id=2-306&t=iclsVmSfTfWcl21Q-1
@@ -59,7 +56,7 @@ Created as part of the **Syntecxhub UI/UX Design Internship (Week 1)**.
 
 **Shreya Somkuwar**
 
-GitHub: https://github.com/yourusername
+GitHub: shreyasomkuwar29-blip
 LinkedIn: www.linkedin.com/in/
 shreya-s-80317441a
 

@@ -50,7 +50,7 @@ https://www.figma.com/proto/QQ3rmPR7HU4LHtloVBSJPm/PROJECT-2?node-id=2-306&t=icl
 
 ## 📄 Internship
 
-Created as part of the **Syntecxhub UI/UX Design Internship (Week 1)**.
+Created as part of the **Syntecxhub UI/UX Design Internship (Week 1)**..
 
 ## 👩‍💻 Author
 
